@@ -4,8 +4,8 @@
 <h1> Hi I am from PHP page </h1>
 
 <?php
-  echo "Hello  from PHP World!";
-  echo "Version 2";
+  echo "Hello I am from PHP World!";
+  echo "Version 3";
 ?>
 
 </body>
